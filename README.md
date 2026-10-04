@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Samson
 
-<!--
-**SamsonSiby5827/SamsonSiby5827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate (First Class Honours, University of West London, RAK campus), based in Sharjah, UAE. I build machine learning and computer vision apps in Python, and I'm learning to turn them into production services.
 
-Here are some ideas to get you started:
+**Featured project:** [DeepfakeGuard](https://github.com/SamsonSiby5827/deepfakeguard): detects deepfake faces in images and videos (TensorFlow, OpenCV, Flask) with blockchain file verification. Switching to face-cropped training data raised held-out accuracy from 64% to 80%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Now working on:** DeepfakeGuard v2, rebuilding it as a FastAPI service with Docker, automated tests and a live demo.
+
+**Learning:** FastAPI, Docker, LLM applications (RAG and agents)
+
+**Tech I use:** Python · SQL · Java · TensorFlow/Keras · OpenCV · Pandas · NumPy · Flask · MongoDB · Git
+
+[LinkedIn](https://www.linkedin.com/in/samson-siby-046219295)
